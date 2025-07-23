@@ -6,4 +6,4 @@ This repository contains a **Power BI dashboard** for **BlinkIt**, an Indian qui
 The dashboard provides key insights into total sales, average sales, item categories, outlet types, and customer ratings.
 
 
-<img src="https://github.com/sdhingole111/BlinkIT-Grocery-Data/blob/3f31855d24b36e532905631511bacbb04438453b/BlinkIt%20data.pdf" alt="Image description" width="800">
+<img src="https://github.com/sdhingole111/BlinkIT-Grocery-Data/blob/5ddfbbafd80b67a4e35b2233b3fbd468235884fb/Blinkit%20data.png" alt="Image description" width="800">
